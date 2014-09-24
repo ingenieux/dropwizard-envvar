@@ -14,7 +14,7 @@
     <scm>
         <connection>scm:git:ssh://git@github.com/ingenieux/dropwizard-envvar.git</connection>
         <url>http://github.com/ingenieux/dropwizard-envvar</url>
-        <developerConnection>scm:git:ssh://github.com/ingenieux/dropwizard-envvar.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com/ingenieux/dropwizard-envvar.git</developerConnection>
     </scm>
 
     <dependencies>
