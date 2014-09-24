@@ -1,12 +1,13 @@
-package minisu.dropwizard.interpolation;
+package br.com.ingenieux.dropwizard.interpolation;
 
-import io.dropwizard.configuration.ConfigurationSourceProvider;
 import org.apache.commons.lang.text.StrSubstitutor;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Scanner;
+
+import io.dropwizard.configuration.ConfigurationSourceProvider;
 
 public class SubstitutingSourceProvider implements ConfigurationSourceProvider
 {

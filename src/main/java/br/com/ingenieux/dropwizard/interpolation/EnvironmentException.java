@@ -1,4 +1,4 @@
-package minisu.dropwizard.interpolation;
+package br.com.ingenieux.dropwizard.interpolation;
 
 public class EnvironmentException extends RuntimeException
 {

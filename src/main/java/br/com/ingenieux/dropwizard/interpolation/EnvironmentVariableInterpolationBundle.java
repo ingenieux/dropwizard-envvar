@@ -1,8 +1,6 @@
-package minisu.dropwizard.interpolation;
+package br.com.ingenieux.dropwizard.interpolation;
 
 import io.dropwizard.Bundle;
-import minisu.dropwizard.interpolation.EnvironmentVariableLookup;
-import minisu.dropwizard.interpolation.SubstitutingSourceProvider;
 import io.dropwizard.setup.Bootstrap;
 import io.dropwizard.setup.Environment;
 import org.apache.commons.lang.text.StrSubstitutor;
